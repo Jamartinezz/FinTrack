@@ -1,4 +1,4 @@
-FinTrack - My First Finance Tracker!! 💰💸
+FinTrack - My First Finance Tracker!! 💰💸 <br>
 Hey guys! This is my first ever web project for my intro to web dev Program. I made this finance tracker to help keep track of my spending (because I'm always broke by the end of the month lol).
 What it does
 
